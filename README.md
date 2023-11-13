@@ -22,4 +22,17 @@ Input: 2
 Expected Output: 2 is a prime number.
 
 
+Tests performed by Kim Eunhye for the Todo list file, I performed the following tests
 
+Add Task:
+Input: "Buy groceries"
+Expected Output: "Task 'Buy groceries' added."
+View Tasks (Empty List):
+Expected Output: "No tasks in the to-do list."
+View Tasks (Non-empty List):
+Add a task (e.g., "Read a book").
+Expected Output: "To-Do List:\n1. Read a book"
+Complete Task (Valid Index):
+Add a task (e.g., "Do homework").
+Input: 1
+Expected Output: "Task 'Do homework' completed."
