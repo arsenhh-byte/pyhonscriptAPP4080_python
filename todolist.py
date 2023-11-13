@@ -1,18 +1,4 @@
-def show_name(name):
-    return f"Hello, {name}!"
-
-def main():
-    user_name = input("Enter your name: ")
-    greeting = show_name(user_name)
-    print(greeting)
-
-if __name__ == "__main__":
-    main()
-def show_name(name):
-    return f"Hello, {name}!"
-
-def main():
-    useclass TodoList:
+class TodoList:
     def __init__(self):
         self.tasks = []
 
@@ -55,11 +41,6 @@ def main():
             break
         else:
             print("Invalid choice. Please enter a number between 1 and 4.")
-
-if __name__ == "__main__":
-    main()r_name = input("Enter your name: ")
-    greeting = show_name(user_name)
-    print(greeting)
 
 if __name__ == "__main__":
     main()
