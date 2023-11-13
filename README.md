@@ -10,3 +10,16 @@ Input: name = ""
 Expected Output: "Hello, !"
 Purpose: To check how the function handles an empty string as input.
 
+
+Tests perfomred by Simon Munga 
+for the prime numbers file, i performed the following tests
+
+Basic Test:
+Input: 5
+Expected Output: 5 is a prime number.
+Smallest Prime:
+Input: 2
+Expected Output: 2 is a prime number.
+
+
+
